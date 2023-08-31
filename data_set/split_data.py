@@ -9,7 +9,6 @@ def mk_file(file_path: str):
         rmtree(file_path)
     os.makedirs(file_path)
 
-
 def main():
     # 保证随机可复现
     random.seed(0)
