@@ -1,5 +1,3 @@
-# 文献链接
-
 ## 图像分类(Classification)
 - LeNet [http://yann.lecun.com/exdb/lenet/index.html](http://yann.lecun.com/exdb/lenet/index.html)
 - AlexNet [http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -37,7 +35,6 @@
 - MobileViT V2(Separable Self-attention for Mobile Vision Transformers) [https://arxiv.org/abs/2206.02680](https://arxiv.org/abs/2206.02680)
 - MobileOne(An Improved One millisecond Mobile Backbone) [https://arxiv.org/abs/2206.04040](https://arxiv.org/abs/2206.04040)
 
-
 ## 目标检测(Object Detection)
 - R-CNN [https://arxiv.org/abs/1311.2524](https://arxiv.org/abs/1311.2524)
 - Fast R-CNN [https://arxiv.org/abs/1504.08083](https://arxiv.org/abs/1504.08083)
@@ -61,7 +58,6 @@
 - FCOS(New) [https://arxiv.org/abs/2006.09214](https://arxiv.org/abs/2006.09214)
 - CenterNet [https://arxiv.org/abs/1904.07850](https://arxiv.org/abs/1904.07850)
 
-
 ## 语义分割(Semantic Segmentation)
 - FCN(Fully Convolutional Networks for Semantic Segmentation) [https://arxiv.org/abs/1411.4038](https://arxiv.org/abs/1411.4038)
 - UNet(U-Net: Convolutional Networks for Biomedical Image Segmentation) [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
@@ -71,14 +67,11 @@
 - DeepLabv3+(Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation) [https://arxiv.org/abs/1802.02611](https://arxiv.org/abs/1802.02611)
 - SegFormer [https://arxiv.org/abs/2105.15203](https://arxiv.org/abs/2105.15203)
 
-
 ## 显著性目标检测(Salient Object Detection)
 - U2Net [https://arxiv.org/abs/2005.09007](https://arxiv.org/abs/2005.09007)
 
-
 ## 实例分割(Instance Segmentation)
 - Mask R-CNN [https://arxiv.org/abs/1703.06870](https://arxiv.org/abs/1703.06870)
-
 
 ## 关键点检测(Keypoint Detection)
 - HRNet(Deep High-Resolution Representation Learning for Human Pose Estimation) [https://arxiv.org/abs/1902.09212](https://arxiv.org/abs/1902.09212)
@@ -89,8 +82,6 @@
 - Data-Free Quantization Through Weight Equalization and Bias Correction [https://arxiv.org/abs/1906.04721](https://arxiv.org/abs/1906.04721)
 - LSQ: Learned Step Size Quantization [https://arxiv.org/abs/1902.08153](https://arxiv.org/abs/1902.08153)
 - LSQ+: Improving low-bit quantization through learnable offsets and better initialization [https://arxiv.org/abs/2004.09576](https://arxiv.org/abs/2004.09576)
-
-
 
 ## 自然语言处理
 - Attention Is All You Need [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
